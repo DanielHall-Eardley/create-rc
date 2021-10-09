@@ -1,11 +1,11 @@
 {
   "name": "@daniel1987/create-rc",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Create a basic react hook component",
   "main": "basicComponent.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "create": "node ./basicComponent.js"
+    "create-rc": "node ./basicComponent.js"
   },
   "keywords": [
     "react",

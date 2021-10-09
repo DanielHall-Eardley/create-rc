@@ -42,7 +42,7 @@ function checkError(errorArray) {
 
 function resolveStatus(errorStatus) {
   if (errorStatus) {
-    return 'Unable to create react components';
+    return `Unable to create react component ${errorStatus}`;
   } 
     return 'Sucesss!'
 }
