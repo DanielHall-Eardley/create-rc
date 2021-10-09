@@ -1,0 +1,17 @@
+{
+  "name": "@daniel1987/create-rc",
+  "version": "1.0.0",
+  "description": "Create a basic react hook component",
+  "main": "basicComponent.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "create": "node ./basicComponent.js"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "component"
+  ],
+  "author": "Daniel Hall-Eardley",
+  "license": "ISC"
+}
