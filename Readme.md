@@ -1,7 +1,7 @@
-# Create a basic React component and matching Css module.
+# Create the files for a basic React component.
 
 1. Navigate to the folder where you want to create the files.
 
-2. Type 'npm run create-rc [name of component]'
+2. Type 'create-rc [name of component]'
 
 3. Enjoy the awesomeness!
