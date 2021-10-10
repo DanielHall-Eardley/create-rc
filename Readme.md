@@ -2,6 +2,6 @@
 
 1. Navigate to the folder where you want to create the files.
 
-2. Type 'npm run create [name of component]'
+2. Type 'npm run create-rc [name of component]'
 
 3. Enjoy the awesomeness!

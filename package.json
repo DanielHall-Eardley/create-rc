@@ -1,11 +1,14 @@
 {
   "name": "@daniel1987/create-rc",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Create a basic react hook component",
-  "main": "basicComponent.js",
+  "preferGlobal": true,
+  "main": "index.js",
+  "bin": {
+    "create-rc": "./index.js"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "create-rc": "node ./basicComponent.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "react",
