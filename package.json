@@ -1,6 +1,6 @@
 {
   "name": "@daniel1987/create-rc",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Create a basic react hook component",
   "preferGlobal": true,
   "main": "index.js",
